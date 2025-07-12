@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/screenshot mobile)
-![](./assets/screenshot desktop)
+![](./assets/screenshot%20mobile.png)
+![](./assets/screenshot%20desktop.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://michael-andreas.github.io/social-links-profile/)
+- Live Site URL: [michael-andreas.github.io/social-links-profile/](https://michael-andreas.github.io/social-links-profile/)
 
 ## My process
 
